@@ -27,7 +27,7 @@ Learning: `React` | `Python` | `DBMS` | `SQL`
 
 ### 📫 Contact
 
-- 📧 Email: [erleenerare@outlook.com](mailto:erleenerare@outlook.com)
+- 📧 Email: [erlenerare@outlook.com](mailto:erlenerare@outlook.com)
 - 🌐 Portfolio: Coming soon!
 
 ---
