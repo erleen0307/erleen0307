@@ -29,6 +29,7 @@ Learning: `React` | `Python` | `DBMS` | `SQL`
 ### 📫 Contact
 
 - 📧 Email: [erlenerare@outlook.com](mailto:erlenerare@outlook.com)
+- 🔗 LinkedIn: [in/erleen-kaur-414650361](https://www.linkedin.com/in/erleen-kaur-414650361)
 - 🌐 Portfolio: Coming soon!
 
 ---
