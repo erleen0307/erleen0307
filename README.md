@@ -4,7 +4,7 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ---
 
-## 📢 Updates & Highlights
+### 📢 Updates & Highlights
 
 - 🚀 Just launched: [Dropbox Landing Page UI Clone](https://github.com/erleen0307/dropbox-landing-page-clone) : A responsive clone built with Tailwind CSS 
 - 💡 Currently learning: Advanced Tailwind CSS & preparing for React
