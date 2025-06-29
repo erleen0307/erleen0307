@@ -2,9 +2,9 @@
 
 I'm a passionate front-end developer focused on building clean, responsive, and creative web projects.
 
-- 🔭 Currently working on: Learning Tailwind CSS & Portfolio website  
+- 🔭 Currently working on: **Dropbox Landing Page Clone** & **Portfolio website**  
 - 🌱 Learning: React, advanced JavaScript, and Python sets  
-- 💡 Fun Fact: I love crafting pixel-perfect UIs with plain CSS!
+- 💡 Fun Fact: I love crafting **pixel-perfect UIs** with **Tailwind CSS!**
 
 ---
 
