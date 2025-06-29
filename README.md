@@ -21,7 +21,7 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ### 🛠️ Tech Stack
 
-`HTML` | `CSS` | `JavaScript` | `GitHub Pages` | `APIs`  
+`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `GitHub Pages` | `APIs`  
 Learning: `React` | `Python` | `DBMS` | `SQL`
 
 ---
