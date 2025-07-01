@@ -12,9 +12,8 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ### 📢 Updates & Highlights
 
-- 🚀 Just launched: [Dropbox Landing Page UI Clone](https://github.com/erleen0307/dropbox-landing-page-clone) : A responsive clone built with Tailwind CSS 
-- 💡 Currently learning: Advanced Tailwind CSS & preparing for React
-- 🎯 Next project: Learning React.js
+- 🚀 Just launched: [Developer Portfolio](https://erleen0307.github.io/portfolio/)
+- 💡 Currently learning: React.js
 
 ---
 
@@ -31,8 +30,8 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ### 🛠️ Tech Stack
 
-`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `GitHub Pages` | `APIs`  
-Learning: `React` | `Python` | `DBMS` | `SQL` 
+`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `GitHub Pages` | `APIs` | `Python`
+Learning: `React` | `DBMS` | `SQL` 
 
 --- 
 
@@ -40,7 +39,7 @@ Learning: `React` | `Python` | `DBMS` | `SQL`
 
 - 📧 Email: [erlenerare@outlook.com](mailto:erlenerare@outlook.com)
 - 🔗 LinkedIn: [in/erleen-kaur-414650361](https://www.linkedin.com/in/erleen-kaur-414650361)
-- 🌐 Portfolio: Coming soon!
+- 🌐 Portfolio: [Developer Portfolio](https://erleen0307.github.io/portfolio/)
 
 ---
 
