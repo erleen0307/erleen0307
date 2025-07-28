@@ -31,6 +31,7 @@ I'm a passionate self-taught front-end developer focused on building clean, resp
 ### 🛠️ Tech Stack
 
 `HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `React.js` | `GitHub Pages` | `APIs` | `Python`
+
 Learning: `C` | `DBMS` | `SQL` 
 
 --- 
