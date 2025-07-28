@@ -1,6 +1,6 @@
 # Hi, I'm Erleen 👋
 
-I'm a passionate front-end developer focused on building clean, responsive, and creative web projects.
+I'm a passionate self-taught front-end developer focused on building clean, responsive, and creative web projects.
 
 ---
 
@@ -12,8 +12,8 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ### 📢 Updates & Highlights
 
-- 🚀 Just launched: [Developer Portfolio](https://erleen0307.github.io/portfolio/)
-- 💡 Currently learning: React.js
+- 🚀 Just launched: [Spotify UI Clone](https://erleen0307.github.io/spotify-ui-clone/)
+- 💡 Currently: Trying out Wix!
 
 ---
 
@@ -30,15 +30,16 @@ I'm a passionate front-end developer focused on building clean, responsive, and 
 
 ### 🛠️ Tech Stack
 
-`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `GitHub Pages` | `APIs` | `Python`
-Learning: `React` | `DBMS` | `SQL` 
+`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `React.js` | `GitHub Pages` | `APIs` | `Python`
+Learning: `C` | `DBMS` | `SQL` 
 
 --- 
 
 ### 📫 Contact
 
 - 📧 Email: [erlenerare@outlook.com](mailto:erlenerare@outlook.com)
-- 🔗 LinkedIn: [in/erleen-kaur-414650361](https://www.linkedin.com/in/erleen-kaur-414650361)
+- 🔗 LinkedIn: [Erleen Kaur](https://www.linkedin.com/in/erleen-kaur-414650361)
+- 📱 Instagram: [codeandcanvas.dev](https://www.instagram.com/codeandcanvas.dev/)
 - 🌐 Portfolio: [Developer Portfolio](https://erleen0307.github.io/portfolio/)
 
 ---
