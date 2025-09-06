@@ -12,7 +12,7 @@ I'm a passionate self-taught front-end developer focused on building clean, resp
 
 ### 📢 Updates & Highlights
 
-- 🚀 Just launched: [Spotify UI Clone](https://erleen0307.github.io/spotify-ui-clone/)
+- 🚀 Just launched: [Daily-UI Repo](https://github.com/erleen0307/Daily-UI)
 - 💡 Currently: Polishing my UI skills with the Daily UI Challenge
 ---
 
