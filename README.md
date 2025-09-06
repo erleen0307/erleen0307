@@ -13,8 +13,7 @@ I'm a passionate self-taught front-end developer focused on building clean, resp
 ### 📢 Updates & Highlights
 
 - 🚀 Just launched: [Spotify UI Clone](https://erleen0307.github.io/spotify-ui-clone/)
-- 💡 Currently: Upgraded a Biz Consultancy Website using Wix! Hopping back to React!
-
+- 💡 Currently: Polishing my UI skills with the Daily UI Challenge
 ---
 
 ### 🚀 My Featured Projects
