@@ -13,7 +13,7 @@ I'm a passionate self-taught front-end developer focused on building clean, resp
 ### 📢 Updates & Highlights
 
 - 🚀 Just launched: [Daily-UI Repo](https://github.com/erleen0307/Daily-UI)
-- 💡 Currently: Polishing my UI skills with the Daily UI Challenge
+- 💡 Currently: Working on the **Daily UI Challenge**, participating in **Hacktoberfest**
 ---
 
 ### 🚀 My Featured Projects
