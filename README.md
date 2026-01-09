@@ -10,12 +10,6 @@ I'm a passionate self-taught front-end developer focused on building clean, resp
 
 ---
 
-### 📢 Updates & Highlights
-
-- 🚀 Just launched: [Daily-UI Repo](https://github.com/erleen0307/Daily-UI)
-- 💡 Currently: Working on the **Daily UI Challenge**, participating in **Hacktoberfest**
----
-
 ### 🚀 My Featured Projects
 
 | Project | Description | Tech |
@@ -29,9 +23,9 @@ I'm a passionate self-taught front-end developer focused on building clean, resp
 
 ### 🛠️ Tech Stack
 
-`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `React.js` | `APIs` | `Python` | `C`
+`HTML` | `CSS` | `JavaScript` | `Tailwind CSS` | `React.js` | `APIs` | `C`
 
-Learning:  `DSA` | `mySQL` | `DBMS` 
+Learning:  `DSA` | `SQL` | `DBMS` 
 
 --- 
 
