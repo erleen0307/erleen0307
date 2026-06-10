@@ -54,4 +54,7 @@ Every project here represents a step forward—whether it's a new concept, a sol
 ### Thanks for stopping by!
 
 Always learning, always building, one project at a time 🚀
+
+---
+
 ### With ❤️ by erleen0307
