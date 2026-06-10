@@ -47,7 +47,7 @@ I'm a Computer Science student passionate about software development, problem-so
 
 This GitHub profile is a record of my journey as I learn, build, experiment, and improve as a developer.
 
-Every project here represents a step forward—whether it's a new concept, a solved problem, or a lesson learned from a bug.
+Every project here represents a step forward, whether it's a new concept, a solved problem, or a lesson learned from a bug.
 
 ---
 
