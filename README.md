@@ -13,7 +13,7 @@ I'm a Computer Science student passionate about software development, problem-so
 `C` | `C++` | `Java` | `Python` | `HTML` | `CSS` | `JavaScript` 
 
 ### Frameworks & Libraries
-`React`
+`React` | `Node.js`
 
 ### Tools
 `Git` | `GitHub` | `VS Code` | `Vite`
@@ -32,13 +32,13 @@ I'm a Computer Science student passionate about software development, problem-so
 
 ## 🛠️ Featured Projects
 
-| Project            | Description                                                                                    | Live Demo                                                 |
-| ------------------ | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Digital Clock      | Real-time digital clock built with React Hooks, featuring live updates and a neon-themed UI.   | [Live](https://erleen0307.github.io/digital-clock-react/) |
-| Wordify            | Dictionary and word exploration app using APIs for definitions, phonetics, and related images. | [Live](https://erleen0307.github.io/wordify/)             |
-| Invoice Generator  | A web tool to quickly create professional invoices with dynamic fields and easy PDF export.    | [Live](https://erleen0307.github.io/invoice-generator/)   |
-| Weather App        | Responsive weather forecast app with 5-day API & localStorage.                                 | [Live](https://erleen0307.github.io/weather-app/)         |
-| Currency Converter | Modern currency converter with real-time rates, dark mode, and swap feature                    | [Live](https://erleen0307.github.io/currency-converter/)  |
+| Project            | Description                                                                                    | Live Demo                                                            |
+| ------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------|
+| CivicLens          | AI-powered civic issue reporting platform using Google Gemini                                  | [Live](https://community-hero-1099237776044.asia-southeast1.run.app) |
+| Wordify            | Dictionary and word exploration app using APIs for definitions, phonetics, and related images. | [Live](https://erleen0307.github.io/wordify/)                        |
+| Invoice Generator  | A web tool to quickly create professional invoices with dynamic fields and easy PDF export.    | [Live](https://erleen0307.github.io/invoice-generator/)              |
+| Weather App        | Responsive weather forecast app with 5-day API & localStorage.                                 | [Live](https://erleen0307.github.io/weather-app/)                    |
+| Currency Converter | Modern currency converter with real-time rates, dark mode, and swap feature                    | [Live](https://erleen0307.github.io/currency-converter/)             |
 
 ---
 
